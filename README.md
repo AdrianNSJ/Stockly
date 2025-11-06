@@ -1,2 +1,2 @@
 # Stockly
-Projeto Integrador UniFatecie
+Gestão de Estoque (Projeto Integrador)
